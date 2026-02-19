@@ -6,8 +6,15 @@ Ce site est un **cours/guide très complet** pour préparer l’**entretien d’
 
 ## Commencer
 
-- Ouvre **Tome 1 — Principes et valeurs de la République** (menu à gauche)
-- Utilise la **recherche** (en haut) pour trouver rapidement une notion (laïcité, impôts, devise, etc.)
+Choisis un tome (menu à gauche) :
+
+- 📘 **Tome 1 — Principes et valeurs de la République**
+- 🏛️ **Tome 2 — Système institutionnel et politique**
+- ⚖️ **Tome 3 — Droits et devoirs**
+- 🗺️ **Tome 4 — Histoire, géographie et culture**
+- 🏡 **Tome 5 — Vivre dans la société française**
+
+Astuce : utilise la **recherche** (en haut) pour retrouver rapidement une notion (laïcité, impôts, Constitution, UE, etc.).
 
 ## Comment utiliser ce cours (méthode efficace)
 

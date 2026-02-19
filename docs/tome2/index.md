@@ -1,12 +1,14 @@
-# Tome 2 — Système institutionnel et politique
+# 🏛️ Tome 2 — Système institutionnel et politique
 
-Ce tome suit le thème officiel **« Système institutionnel et politique »**.
+Ce tome suit le questionnaire officiel.
 
-## Comment l’utiliser
+> Mise à jour de référence : **19/02/2026**.
 
-- Menu à gauche : navigation par sections.
-- Recherche : retrouve une notion rapidement (Constitution, Conseil constitutionnel, UE, droits…).
+## Navigation
 
-Chaque question est traitée avec : **Réponse courte**, **Réponse détaillée**, **QCM**, **Pièges**, **Ressources**.
+- Utilise le menu à gauche.
+- Utilise la recherche en haut.
 
-> Mise à jour : **19/02/2026**.
+## Format de chaque question
+
+Chaque question est traitée avec : **Réponse courte**, **Réponse détaillée**, **QCM**, **Pièges**, **Ressources** (liens cliquables).

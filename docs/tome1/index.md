@@ -1,9 +1,17 @@
 # Tome 1 — Principes et valeurs de la République
 
-## Télécharger
+Ce tome couvre les **35 questions** du thème « Principes et valeurs de la République ».
 
-- [PDF du Tome 1](../assets/Tome1_Principes_Valeurs_v15.pdf)
+## Naviguer
 
-## Naviguer par question
+- Utilise le **menu à gauche** pour ouvrir une question.
+- Utilise la **recherche** pour retrouver une notion (ex. “laïcité”, “neutralité”, “Marianne”, “Sécurité sociale”).
 
-Utilise le menu à gauche pour ouvrir une question.
+## Objectif entretien
+
+Chaque question est présentée avec :
+- une **Réponse courte** (réflexe entretien)
+- une **Réponse détaillée** (contexte + formulation didactique)
+- un **QCM** (auto‑évaluation)
+- des **Pièges à éviter**
+- des **Ressources** (liens)

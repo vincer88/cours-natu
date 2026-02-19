@@ -1,0 +1,90 @@
+site_name: "Naturalisation française — Cours (questionnaire commenté)"
+site_description: "Préparation à l’entretien de naturalisation française — cours exhaustif, question par question."
+site_url: ""
+repo_name: "GitHub"
+repo_url: ""
+edit_uri: ""
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mode sombre
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clair
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - styles/extra.css
+
+nav:
+  - Accueil: index.md
+  - "Tome 1 — Principes et valeurs":
+      - "Présentation": tome1/index.md
+      - "1. Marseillaise": tome1/01.md
+      - "2. Entretien d’embauche": tome1/02.md
+      - "3. Déclaration revenus": tome1/03.md
+      - "4. Impôts et dépenses publiques": tome1/04.md
+      - "5. Liberté d’association (énoncé)": tome1/05.md
+      - "6. Liberté d’expression (réseaux)": tome1/06.md
+      - "7. Prénom symbole": tome1/07.md
+      - "8. Symbole République": tome1/08.md
+      - "9. Devise (où la voir)": tome1/09.md
+      - "10. Symboles officiels": tome1/10.md
+      - "11. Brûler le drapeau": tome1/11.md
+      - "12. Sécurité sociale": tome1/12.md
+      - "13. 14 juillet": tome1/13.md
+      - "14. Marianne (bonnet)": tome1/14.md
+      - "15. Coq": tome1/15.md
+      - "16. Devise": tome1/16.md
+      - "17. Liberté d’association (définition)": tome1/17.md
+      - "18. Définition liberté": tome1/18.md
+      - "19. Marianne (document)": tome1/19.md
+      - "20. Égalité": tome1/20.md
+      - "21. Changer de religion": tome1/21.md
+      - "22. Usager en mairie": tome1/22.md
+      - "23. L’État peut financer": tome1/23.md
+      - "24. Loi 1905 (année)": tome1/24.md
+      - "25. Loi 1905 (contenu)": tome1/25.md
+      - "26. Laïcité (garanties)": tome1/26.md
+      - "27. Journée laïcité": tome1/27.md
+      - "28. Signes religieux à l’école": tome1/28.md
+      - "29. Antisémitisme": tome1/29.md
+      - "30. Texte fondateur laïcité": tome1/30.md
+      - "31. Institution neutre": tome1/31.md
+      - "32. Définition laïcité": tome1/32.md
+      - "33. Charte laïcité": tome1/33.md
+      - "34. Neutralité services publics": tome1/34.md
+      - "35. Athée": tome1/35.md
